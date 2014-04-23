@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/bredele/wedge/issues"
   },
-  "homepage": "https://github.com/bredele/wedge"
+  "homepage": "https://github.com/bredele/wedge",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
 }
