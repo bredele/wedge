@@ -2,7 +2,7 @@
   "name": "wedge",
   "repository": "bredele/wedge",
   "description": "Slice utility for objects and arrays.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {
     "component/indexof": "~0.0.3"
