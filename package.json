@@ -1,0 +1,25 @@
+{
+  "name": "wedge",
+  "version": "0.0.0",
+  "description": "Slice utility for objects and arrays",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bredele/wedge.git"
+  },
+  "keywords": [
+    "slice"
+  ],
+  "author": "Olivier Wietrich <olivier.wietrich@gmail.com> (http://github.com/bredele)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/wedge/issues"
+  },
+  "homepage": "https://github.com/bredele/wedge"
+}

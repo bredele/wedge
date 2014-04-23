@@ -1,0 +1,15 @@
+{
+  "name": "wedge",
+  "repository": "bredele/wedge",
+  "description": "Slice utility for objects and arrays.",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
