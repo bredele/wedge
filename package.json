@@ -24,5 +24,8 @@
   "homepage": "https://github.com/bredele/wedge",
   "devDependencies": {
     "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "indexof": "0.0.1"
   }
 }

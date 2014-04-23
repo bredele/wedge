@@ -48,7 +48,7 @@ describe("slice", function() {
   describe('array', function() {
     var arr = ['olivier', {
       video: true
-    }, 'bredele']
+    }, 'bredele'];
 
     it('should slice an item', function() {
       var name = wedge(arr, 0);

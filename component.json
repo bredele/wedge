@@ -4,9 +4,10 @@
   "description": "Slice utility for objects and arrays.",
   "version": "0.0.0",
   "keywords": [],
-  "dependencies": {},
-  "development": {
+  "dependencies": {
+    "component/indexof": "~0.0.3"
   },
+  "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
